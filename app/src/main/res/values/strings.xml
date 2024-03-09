@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StarBucks</string>
+    <string name="our_way_of_loving_you_back">Our way of loving\nyou back</string>
+    <string name="search">Search</string>
+    <string name="popular">Popular</string>
+    <string name="see_all">See All</string>
+    <string name="chocolate_cappuccino">Chocolate Cappuccino</string>
+    <string name="add_to_bag">Add to bag</string>
+    <string name="coffee">Coffee</string>
+    <string name="desc">A cappuccino is an Italian coffee beverage with an espresso base. It is made from equal parts coffee, milk and foam for a perfectly balanced drink. Some will also top the drink with a sprinkle of cinnamon or chocolate powder.</string>
+</resources>
